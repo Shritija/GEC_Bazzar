@@ -1,0 +1,7 @@
+bcrypt:Encode password 
+npm i bcrypt validator [in terminal]
+
+cors(interaction between frontend and backend)
+
+nodemon(restarts server automatically)
+npm i -D nodemon
